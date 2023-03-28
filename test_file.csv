@@ -1,0 +1,60 @@
+age_range,gender,duration_of_medication,review_date,condition,overall_rating,upvotes
+  13-18,Female,1 to 6 months,10-04-2021,Tourette's,3.7,1
+  25-34,Female,2 to less than 5 years,9/27/2021,Bipolar I Disorder with Most Recent Episode Mixed,4.3,1
+  35-44,Male,1 to less than 2 years,8/22/2021,Additional Medications to Treat Depression,5,2
+  19-24,Female,less than 1 month,7/30/2021,Additional Medications to Treat Depression,5,2
+  19-24,Male,1 to 6 months,6/27/2021,Bipolar Disorder in Remission,1.3,1
+  19-24,Nonbinary,2 to less than 5 years,5/26/2021,Bipolar Disorder in Remission,3.7,2
+  35-44,Female,10 years or more,5/20/2021,Mania associated with Bipolar Disorder,3.7,2
+  25-34,Female,1 to 6 months,04-06-2021,Additional Medications to Treat Depression,5,2
+  19-24,Male,less than 1 month,04-06-2021,Additional Medications to Treat Depression,1.7,2
+  45-54,Female,less than 1 month,3/27/2021,Additional Medications to Treat Depression,4.3,2
+  25-34,Female,1 to 6 months,2/21/2021,Schizophrenia,5,2
+  25-34,Female,2 to less than 5 years,1/14/2021,Mania associated with Bipolar Disorder,3,2
+  35-44,Male,10 years or more,01-11-2021,Schizophrenia,1,1
+  19-24,Female,1 to less than 2 years,01-08-2021,Bipolar I Disorder with Most Recent Episode Mixed,2.3,2
+  35-44,Male,10 years or more,01-07-2021,Schizophrenia,3.7,2
+  45-54,Male,10 years or more,12/28/2020,Additional Medications to Treat Depression,5,2
+  35-44,Female,2 to less than 5 years,12/14/2020,Additional Medications to Treat Depression,1.7,2
+  65-74,Male,1 to 6 months,01-09-2013,Type 2 Diabetes Mellitus,4.7,3
+  75 or over,Male,5 to less than 10 years,01-09-2013,Type 2 Diabetes Mellitus,1.7,44
+  65-74,Female,5 to less than 10 years,11/27/2012,Type 2 Diabetes Mellitus,4,8
+  55-64,Female,1 to less than 2 years,10/25/2012,Type 2 Diabetes Mellitus,3.3,14
+  55-64,Male,1 to 6 months,10/18/2012,Type 2 Diabetes Mellitus,4.3,4
+  65-74,Female,1 to 6 months,9/25/2012,Type 2 Diabetes Mellitus,4,3
+  55-64,Male,6 months to less than 1 year,9/21/2012,Type 2 Diabetes Mellitus,3,38
+  25-34,Female,1 to less than 2 years,9/20/2012,Type 2 Diabetes Mellitus,1,55
+  45-54,Male,1 to less than 2 years,8/19/2012,Type 2 Diabetes Mellitus,5,9
+  45-54,Female,1 to less than 2 years,7/24/2012,Type 2 Diabetes Mellitus,4.7,20
+  55-64,Male,10 years or more,6/27/2012,Type 2 Diabetes Mellitus,3.7,5
+  65-74,Male,1 to 6 months,6/20/2012,Type 2 Diabetes Mellitus,2,40
+  45-54,Female,1 to 6 months,06-11-2012,Type 2 Diabetes Mellitus,3.3,13
+  55-64,Male,1 to less than 2 years,06-06-2012,Type 2 Diabetes Mellitus,2.3,41
+  19-24,Female,less than 1 month,6/22/2022,Cold Sore,5,1
+  75 or over,Male,less than 1 month,06-01-2022,Genital Herpes,4.3,1
+  19-24,Female,less than 1 month,4/14/2022,Genital Herpes,4.7,1
+  19-24,Female,1 to 6 months,3/30/2022,Prevent Recurrent Herpes Simplex Infection,5,1
+  75 or over,Male,6 months to less than 1 year,10/19/2021,Genital Herpes,5,1
+  65-74,Female,10 years or more,7/29/2021,Genital Herpes,5,2
+  35-44,Female,1 to less than 2 years,7/21/2021,Cold Sore,5,2
+  19-24,Male,less than 1 month,06-10-2021,Shingles,5,1
+  19-24,Female,5 to less than 10 years,03-07-2021,Attention Deficit Disorder with Hyperactivity,5,4
+  35-44,Male,1 to less than 2 years,2/15/2021,Attention Deficit Disorder with Hyperactivity,4.7,7
+  25-34,Female,2 to less than 5 years,02-01-2020,Attention Deficit Disorder with Hyperactivity,5,11
+  25-34,Female,2 to less than 5 years,02-01-2020,Attention Deficit Disorder with Hyperactivity,5,27
+  25-34,Female,10 years or more,1/18/2020,Attention Deficit Disorder with Hyperactivity,4.7,4
+  55-64,Female,5 to less than 10 years,9/15/2015,High Amount of Uric Acid in the Blood,5,1
+  35-44,Male,1 to 6 months,8/31/2015,Gout,5,34
+  65-74,Male,10 years or more,8/27/2015,High Amount of Uric Acid in the Blood,5,1
+  75 or over,Male,10 years or more,7/31/2015,High Amount of Uric Acid in the Blood,5,1
+  55-64,Male,10 years or more,7/20/2015,Gout,5,38
+  65-74,Female,10 years or more,1/16/2019,Chronic Trouble Sleeping,5,19
+  55-64,Male,1 to 6 months,12/25/2018,Chronic Trouble Sleeping,1.7,6
+  35-44,Female,less than 1 month,6/30/2017,Depression,3.3,30
+  45-54,Female,less than 1 month,6/14/2017,Depression,3,20
+  35-44,Female,1 to less than 2 years,8/17/2019,Joint Damage causing Pain and Loss of Function,5,17
+  45-54,Female,less than 1 month,04-07-2019,Acute Pain Following an Operation,1,2
+  55-64,Female,1 to 6 months,12/26/2018,Acute Pain Following an Operation,1.7,1
+  65-74,Other,1 to 6 months,5/24/2022,Depression,5,1
+  45-54,Female,1 to 6 months,05-09-2022,Neuropathic Pain,3.7,1
+  45-54,Female,2 to less than 5 years,4/25/2022,Depression,4.7,1
